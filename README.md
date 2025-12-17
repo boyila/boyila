@@ -25,10 +25,10 @@ Here are some of my favorite projects (check the pinned repositories for more):
 
 Feel free to explore other repositories for more bots and automation scripts. Each repo includes a README with setup instructions and technical details.
 
-## 💋 Get in Touch
+## Get in Touch
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/your-link-here/)
-- **Email:** trishika.boyila@example.com
-- **Portfolio/Blog:** [Your Website](https://your-website.com)
+- **Email:** tboyila@gmail.com
+
 
 I’m open to new roles as a **Machine Learning / AI Engineer** and to collaborating on research or open‑source projects in NLP, RAG and agentic AI. If you’re a hiring manager looking for someone who can build and deploy intelligent systems, let’s connect!
 
